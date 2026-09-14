@@ -1,0 +1,1 @@
+{ "name": "aarchi-site", "scripts": { "start": "npx serve -s . -l $PORT" } }
